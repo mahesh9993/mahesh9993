@@ -24,6 +24,3 @@ I am currently pursuing my Bachelor of Science (Hons) in Information Systems at 
 <a href="https://linkedin.com/in/www.linkedin.com/in/mahesh-chathuranga-2aa56a2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahesh-chathuranga-2aa56a2a3" height="30" width="40" /></a>
 </p>
 
----
-
-Thanks for visiting my GitHub portfolio! Feel free to check out the projects above, and don't hesitate to reach out if you'd like to collaborate or learn more about my work
