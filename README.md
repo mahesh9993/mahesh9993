@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh9993&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh9993" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh9993" alt="mahesh9993" /></a> </p>
-
 - 🔭 I’m currently working on [Troubleshoot app](https://github.com/mahesh9993/Troubleshoot-app.git)
 
 - 🌱 I’m currently learning **.Net | MERN stack**
