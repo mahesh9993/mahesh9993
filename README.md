@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chathuranga</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
 
+Welcome to my GitHub portfolio! I am a passionate software engineering student with a strong interest in full-stack development. My focus is on creating dynamic, responsive, and efficient web and desktop applications using a variety of modern technologies.
+
+## 👨‍💻 About Me
+
+I am currently pursuing my Bachelor of Science (Hons) in Information Systems at Rajarata University of Sri Lankaand I am actively working with modern web and backend technologies such as Springboot, React, Angular, and .NET Core. This portfolio showcases some of the projects I have worked on as part of my academic journey and personal development.
+
 - 🔭 I’m currently working on [Troubleshoot app](https://github.com/mahesh9993/Troubleshoot-app.git)
 
 - 🌱 I’m currently learning **.Net | MERN stack**
@@ -18,3 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh9993&show_icons=true&locale=en&layout=compact" alt="mahesh9993" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh9993&show_icons=true&locale=en" alt="mahesh9993" /></p>
+
+---
+
+Thanks for visiting my GitHub portfolio! Feel free to check out the projects above, and don't hesitate to reach out if you'd like to collaborate or learn more about my work
