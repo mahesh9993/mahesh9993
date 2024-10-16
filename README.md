@@ -1,70 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahesh Chathuranga</h1>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
 
-# Mahesh Chathuranga
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh9993&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh9993" /> </p>
 
-**Aspiring Software Engineer | Full Stack Developer**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh9993" alt="mahesh9993" /></a> </p>
 
-Welcome to my GitHub portfolio! I am a passionate software engineering student with a strong interest in full-stack development. My focus is on creating dynamic, responsive, and efficient web and desktop applications using a variety of modern technologies.
+- 🔭 I’m currently working on [Troubleshoot app](https://github.com/mahesh9993/Troubleshoot-app.git)
 
----
+- 🌱 I’m currently learning **.Net | MERN stack**
 
-### �� Contact Me
+- 📫 How to reach me **mchathuranga9993@gmail.com**
 
-- **Phone**: +94 756264210 / +94 760374210
-- **Email**: [mchathuranga9993@gmail.com](mailto:mchathuranga9993@gmail.com)
-- **LinkedIn**: [Mahesh Chathuranga](https://www.linkedin.com/in/mahesh-chathuranga-2aa56a2a3)
-- **GitHub**: [github.com/mahesh9993](https://github.com/mahesh9993)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mahesh-chathuranga-2aa56a2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahesh-chathuranga-2aa56a2a3" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## ��‍�� About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh9993&show_icons=true&locale=en&layout=compact" alt="mahesh9993" /></p>
 
-I am currently pursuing my Bachelor of Science (Hons) in Information Systems at Rajarata University of Sri Lanka with a GPA of 3.44. In addition, I hold a Diploma in Accounting and Business from AAT Sri Lanka.
-
-I am actively working with modern web and backend technologies such as Springboot, React, Angular, and .NET Core. This portfolio showcases some of the projects I have worked on as part of my academic journey and personal development.
-
----
-
-## �� Technologies & Tools
-
-- **Languages**: Java, JavaScript, TypeScript, C#, HTML, CSS
-- **Frontend Frameworks**: React, Angular, Next.js, Bootstrap
-- **Backend Frameworks**: Springboot, .NET Core
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, GitHub, Electron
-
----
-
-## �� Projects
-
-### [E-Commerce Application](https://github.com/mahesh9993/AD-final-project)
-- **Technologies**: Angular (Frontend), Springboot (Backend), Bootstrap (UI)
-- Developed a full-stack e-commerce web application with user authentication, product browsing, and cart functionality. The frontend was built using Angular, while the backend services were implemented with Springboot.
-
----
-
-### [Computer & Mobile Troubleshoot Assistant System](https://github.com/mahesh9993)
-- **Technologies**: HTML, Bootstrap, JavaScript, Electron, SQLite
-- A desktop application designed to assist users with troubleshooting common computer and mobile device issues. Built using Electron for cross-platform support, along with SQLite for local data storage.
-
----
-
-### [Task App](https://github.com/mahesh9993)
-- **Technologies**: React (Frontend)
-- A task management application developed using React, supporting full CRUD operations to create, update, delete, and view tasks.
-
----
-
-### [Task Management System](https://github.com/mahesh9993)
-- **Technologies**: Next.js (Frontend), Springboot (Backend)
-- Developed a task management system with login functionality, task creation, and CRUD operations. Next.js was used for the frontend, and Springboot was used for the backend API services.
-
----
-
-## �� Education
-
-- **Bachelor of Science (Hons) in Information Systems**, Rajarata University of Sri Lanka
-
----
-
-Thanks for visiting my GitHub portfolio! Feel free to check out the projects above, and don't hesitate to reach out if you'd like to collaborate or learn more about my work.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh9993&show_icons=true&locale=en" alt="mahesh9993" /></p>
