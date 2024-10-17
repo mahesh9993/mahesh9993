@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I am a passionate software engineering student w
 
 ## 👨‍💻 About Me
 
-I am currently pursuing my Bachelor of Science (Hons) in Information Systems at Rajarata University of Sri Lanka and I am actively working with modern web and backend technologies such as Springboot, React, Angular, and .NET Core. This portfolio showcases some of the projects I have worked on as part of my academic journey and personal development.
+I am currently pursuing my Bachelor of Science (Hons) in Information Systems at Rajarata University of Sri Lanka and I am actively working with modern web and backend technologies such as Springboot, React, Angular, and .NET Core.
 
 - 🔭 I’m currently working on [Troubleshoot app](https://github.com/mahesh9993/Troubleshoot-app.git)
 
