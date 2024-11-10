@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chathuranga</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 Welcome to my GitHub portfolio! I am a passionate software engineering student with a strong interest in full-stack development. My focus is on creating dynamic, responsive, and efficient web and desktop applications using a variety of modern technologies.
 
